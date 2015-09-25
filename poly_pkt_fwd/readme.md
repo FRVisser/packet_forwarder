@@ -11,7 +11,7 @@ Lora Gateway packet forwarder with multiple extensions
 
 WARNING: 
   Bleeding edge work. Code not yet properly tested, will most likely 
-  fail directly afer startup.  
+  fail directly after startup.  
 
 1. Introduction
 ----------------
